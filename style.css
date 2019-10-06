@@ -1,0 +1,19 @@
+body{
+    background-color: #222;
+}
+
+.crack{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#pock{
+    position:relative;
+    background-color: aqua;
+    width: 1350px;
+    height: 640px;
+}
+
